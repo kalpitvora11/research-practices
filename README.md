@@ -1,5 +1,5 @@
 # research-practices
 
-kalpit vora
-paras waghela
+kalpit vora,
+paras waghela,
 yash vora
